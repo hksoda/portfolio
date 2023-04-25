@@ -1,5 +1,5 @@
 # Анализ архива объявлений о продаже недвижимости 
-[HTML](https://raw.githubusercontent.com/hksoda/portfolio/main/Research_real_estate/real_estate_spb.html)     [ipynb](https://github.com/hksoda/portfolio/blob/5ee8814791492f5d765056c2067e3dfc7e1538fb/Project1/hypothesis_testing_8.ipynb)
+[HTML](https://raw.githubusercontent.com/hksoda/portfolio/main/Research_real_estate/real_estate_spb.html)     [ipynb](https://github.com/hksoda/portfolio/blob/36955ef308eae1e21189583c1c61e9da7029d242/Research_real_estate/real_estate_spb.ipynb)
 
 ## Описание проекта
 
