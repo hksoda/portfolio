@@ -1,5 +1,5 @@
 # A/B-тест на наличие отличий в среднем чеке и конверсии пользователей он-лайн магазина
-[HTML](https://github.com/aq2003/Portfolio/blob/main/Gold%20Recovery/P9_Portfolio.html)     [ipynb](https://github.com/aq2003/Portfolio/blob/main/Gold%20Recovery/P9_Portfolio.ipynb)
+[HTML](https://github.com/hksoda/portfolio/blob/main/Project1/hypothesis_testing_8.html)     [ipynb](https://github.com/hksoda/portfolio/blob/5ee8814791492f5d765056c2067e3dfc7e1538fb/Project1/hypothesis_testing_8.ipynb)
 
 ## Описание проекта
 
